@@ -4,6 +4,7 @@ main () {
     puts("Ingresa un numero:");
     scanf("%i",&num);
     printf("El numero es: %i", num);
-    puts("Fer te amo")
     return 0;
+    puts("Fer te amoOOOOoOOOoo");
+    puts("Quiero dormirrr, re flashee mal amigo");
 }
