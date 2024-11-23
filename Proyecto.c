@@ -7,4 +7,7 @@ main () {
     return 0;
     puts("Fer te amoOOOOoOOOoo");
     puts("Quiero dormirrr, re flashee mal amigo");
-}
+
+    puts("hjahu")
+    printf("maldita fi")
+}erererer
